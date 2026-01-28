@@ -1,0 +1,8 @@
+{
+  "name": "Schoolbots - AI Oplossingen voor het Onderwijs",
+  "description": "Een professioneel platform voor het bouwen en leveren van AI-oplossingen op maat voor scholen, met een focus op privacy, AVG en ethiek.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
